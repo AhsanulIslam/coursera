@@ -1,0 +1,1 @@
+"echo >name.txt git add name.txt  git commit -m name for commit  Next git log --oneline -1   git commit --amend -m update name inside double cottation then check again log --oneline -1" 
